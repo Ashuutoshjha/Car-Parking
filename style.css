@@ -1,0 +1,40 @@
+.front-background {
+    background-color: #8A19D6;
+}
+
+.text{
+    color: #FFFFFF; 
+}
+.round-icon{
+    width: 24px; /* Adjust size of the icon as needed */
+    height: 24px;
+    border-radius: 50%;
+}
+/* .icon-label {
+    display: flex;
+    align-items: center;
+} */
+/* .icon-wrapper {
+    width: 40px; Adjust width and height as needed
+    height: 40px;
+    border-radius: 50%; Make the label circular
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px; Adjust margin as needed
+} */
+/* .label {
+    font-size: 14px; 
+    color: #ffffff;
+} */
+.body {
+    background-image: url('bg.jpeg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+  }
+  .login{
+    float :right;
+    opacity: 50%;
+  }
